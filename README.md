@@ -33,8 +33,9 @@ se encuentran los [datos](https://divvybikes.com/system-data).
 
 Los descubrimientos y recomendaciones son proporcionadas en las siguientes áreas claves:
 
-Análisis comparativo temporal: Analiza y descubre patrones en diferentes granularidades temporales.
-Análisis del comportamiento: Analiza los patrones de uso de los usuarios de Cyclistic.
+- Análisis comparativo temporal: Analiza y descubre patrones en diferentes granularidades temporales.
+
+- Análisis del comportamiento: Analiza los patrones de uso de los usuarios de Cyclistic.
 
 ## Estructura de datos y revisiones iniciales
 
