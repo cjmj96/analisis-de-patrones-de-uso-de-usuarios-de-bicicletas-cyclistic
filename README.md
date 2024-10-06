@@ -146,17 +146,19 @@ Y a nivel diario, los usuarios anuales realizaron en promedio 25,730 viajes, mie
 
 #### Preferencia de tipo de bicicleta
 
-Ambos tipos de usuarios prefieren las bicicletas clásicas (62%)  para realizar sus viajes. Este patrón se mantiene de manera constante en diferentes granularidades.
+Ambos tipos de usuarios prefieren las bicicletas clásicas (62%)  para realizar sus viajes. Este patrón se mantiene de
+ manera constante en diferentes granularidades.
 
 
 ### Análisis del comportamiento
 
-Los usuarios anuales realizaron más viajes a las 8 am y las 5 pm. Esto podría ser debido a que este tipo de usuario usa las bicicletas para viajar al trabajo y regresar de este.
+Los usuarios anuales realizaron más viajes a las 8 am y las 5 pm. Esto podría ser debido a que este tipo de usuario usa
+ las bicicletas para viajar al trabajo y regresar de este.
 
 ![periodos-de-uso-maximo-anual](./periodos-de-uso-maximo-anual.png)
 
-En tanto, los usuarios casuales los realizaron en el período que va desde las 1 a 4 pm. La causa de esto podría ser que ellos usan las bicicletas
- para hacer turismo u otras actividades no relacionadas con el trabajo.
+En tanto, los usuarios casuales los realizaron en el período que va desde las 1 a 4 pm. La causa de esto podría ser que
+ ellos usan las bicicletas para hacer turismo u otras actividades no relacionadas con el trabajo.
 
 ![periodos-de-uso-maximo-casual](./periodos-de-uso-maximo-casual.png)
 
@@ -172,3 +174,54 @@ algunas excepciones. Mientras que los usuarios casuales usaron más estaciones q
 
 
 ![las-diez-estaciones-mas-populares-por-tipo-de-usuario](./las-diez-estaciones-mas-populares-por-tipo-de-usuario.png)
+
+
+## Recomendaciones y pasos futuros
+
+En función a los conocimientos adquiridos sobre los patrones de uso de los usuarios anuales y casuales, a continuación se ofrecen algunas recomendaciones prácticas:
+
+- Crear promociones basadas en patrones de uso temporales: Ofrecer descuentos especiales o promociones por 
+tiempo limitado de membresías anuales dirigidas a usuarios casuales en el fin de semana. Estas promociones
+ podrían hacer hincapié en cómo una membresía anual reduciría el costo para el uso frecuente en el fin de semana
+ y les permitiría aprovechar los días de la semana de forma gratuita o a un precio descuento. Realizar promociones
+ a mediodía (por ejemplo, de 1 a 4 pm) con anuncios emergentes, notificaciones por correo electrónico
+ o notificaciones dentro de la aplicación que resalten los beneficios de las membresías anuales, como viajes
+ ilimitados o descuentos para viajes más largos.
+
+- Aprovechar las preferencias geográficas para la publicidad dirigida: Crear anuncios dirigidos cerca de atracciones
+ turísticas (tanto anuncios físicos como anuncios digitales como anuncios móviles geo localizados) que
+ enfatizan la conveniencia y la rentabilidad de una membresía anual para aquellos que visitan
+ frecuentemente estas áreas. Esto podría atraer especialmente a los turistas locales o residentes
+ que visitan con frecuencia estos lugares, pero que no se han comprometido a una membresía anual.
+
+
+- Promover la conveniencia de ir al trabajo usando membresías anuales. Dirigirse a los usuarios casuales
+ que utilizan el sistema durante las horas pico de transporte (o cerca de estaciones residenciales) promocionando
+ los beneficios de una membresía anual para los desplazamientos diarios. Destacar los ahorros de costos para
+ aquellos que de otro modo pagarían por viajes individuales durante la hora pico. También, Cyclistic podría
+ asociarse con negocios locales para ofrecer membresías corporativas donde los empleadores puedan
+ subsidiar las membresías anuales para sus empleados. Esto sería especialmente atractivo para los
+ ciclistas ocasionales que utilizan el servicio de vez en cuando para desplazarse, pero que aún no se
+ han comprometido con una membresía anual.
+
+- Animar a los usuarios casuales a convertirse en usuarios frecuentes: Ofrecer incentivos basados en viajes (por ejemplo, después de un
+ cierto número de viajes casuales, obtienen un descuento en una membresía anual) para animar a
+ los usuarios ocasionales a considerar una actualización. Esto podría estructurarse como un 
+programa de lealtad que recompensa el uso frecuente con descuentos en la membresía. Además, se pueden 
+crear paquetes de membresía específicamente para usuarios ocasionales que usan mayoritariamente
+ usan Cyclistic los fines de semana o por ocio. Estos paquetes podrían incluir beneficios adicionales
+ como descuentos en alquiler de bicicletas para amigos o créditos de viaje gratis para viajes de
+ fin de semana, haciendo que la membresía anual sea más atractiva para los ciclistas regulares.
+
+- Destacar los beneficios de las bicicletas clásicas en los planes de membresía: Dado que ambos tipos de usuarios prefieren
+ las bicicletas clásicas, enfatizar el uso ilimitado de bicicletas clásicas en las promociones de membresía anual. Para
+ los usuarios casuales, enfatiza cómo la membresía permite paseos de ocio ilimitados en su tipo de bicicleta preferido.
+
+- Optimizar las ubicaciones de las estaciones para usuarios casuales: Cyclistic podría considerar aumentar el número
+ de estaciones cerca de lugares turísticos y de ocio, ya que estos son más utilizados por los usuarios casuales. Esto
+ haría que el servicio fuera más atractivo y accesible para los usuarios casuales, aumentando la probabilidad de conversión.
+
+- Promocionar beneficios exclusivos para miembros en estaciones de alta demanda: Ofrecer beneficios exclusivos
+ a los miembros anuales en estaciones cercanas a lugares turísticos o de ocio de alta
+ afluencia (acceso de bicicletas por prioridad, descuentos). Esto animaría a los usuarios casuales
+ a considerar una mejora para acceder a estos beneficios.
