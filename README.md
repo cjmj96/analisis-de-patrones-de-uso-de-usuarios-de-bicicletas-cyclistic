@@ -164,11 +164,11 @@ Al analizar las rutas de ambos tipos de usuarios, los usuarios anuales usaron, e
  condominios, o complejos residenciales. Mientras que los usuarios casuales recorrieron en su mayoría rutas cerca del lago Michigan que incluyen parques naturales y otros 
 lugares de entretenimiento. La siguiente figura nos permite entender lo anterior al visualizar las 10 rutas más usadas por tipo de usuario. La siguiente figura ilustra las 10 rutas más populares.
 
-<iframe src="https://www.kaggle.com/embed/christianmontenegro/caso-de-estudio-de-cyclistic?cellIds=50&kernelSessionId=197955622" height="300" style="margin: 0 auto; width: 100%; max-width: 950px;" frameborder="0" scrolling="auto" title="Caso de estudio de Cyclistic"></iframe>
+![las-diez-rutas-mas-populares-por-tipo-de-usuario](./las-diez-rutas-mas-populares-por-tipo-de-usuario.png)
 
 El mismo patrón se repite en estaciones. Los usuarios anuales usaron más estaciones localizadas en lugares residenciales, o cerca de negocios, con 
 algunas excepciones. Mientras que los usuarios casuales usaron más estaciones que están cerca de lugares turísticos, de ocio o de lugares de renta. La siguiente
  figura nos permite entender lo anterior al visualizar las 10 estaciones más usadas por tipo de usuario.
 
 
-[![Caso de estudio de Cyclistic](https://via.placeholder.com/150)](https://www.kaggle.com/embed/christianmontenegro/caso-de-estudio-de-cyclistic?cellIds=51&kernelSessionId=197955622)
+![las-diez-estaciones-mas-populares-por-tipo-de-usuario](./las-diez-estaciones-mas-populares-por-tipo-de-usuario.png)
