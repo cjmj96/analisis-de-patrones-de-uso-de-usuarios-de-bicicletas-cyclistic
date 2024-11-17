@@ -180,48 +180,14 @@ algunas excepciones. Mientras que los usuarios casuales usaron más estaciones q
 
 En función a los conocimientos adquiridos sobre los patrones de uso de los usuarios anuales y casuales, a continuación se ofrecen algunas recomendaciones prácticas:
 
-- Crear promociones basadas en patrones de uso temporales: Ofrecer descuentos especiales o promociones por 
-tiempo limitado de membresías anuales dirigidas a usuarios casuales en el fin de semana. Estas promociones
- podrían hacer hincapié en cómo una membresía anual reduciría el costo para el uso frecuente en el fin de semana
- y les permitiría aprovechar los días de la semana de forma gratuita o a un precio descuento. Realizar promociones
- a mediodía (por ejemplo, de 1 a 4 pm) con anuncios emergentes, notificaciones por correo electrónico
- o notificaciones dentro de la aplicación que resalten los beneficios de las membresías anuales, como viajes
- ilimitados o descuentos para viajes más largos.
+- Desarrollar promociones basadas en tendencias de uso a escala temporal: Proporcionar ofertas especiales de membresías anuales durante los fines de semana. Se debe destacar los beneficios de esta, al utilizar el servicio durante los fines de semana y brindándoles la posibilidad de disfrutar los días de la semana a un precio reducido. Esto puede ampliarse en zonas concretas del día mediante publicidad emergente, alertas por correo electrónico o alertas internas en la aplicación que destaquen las ventajas de los abonos anuales, tales como viajes sin restricciones o rebajas para viajes de mayor duración.
 
-- Aprovechar las preferencias geográficas para la publicidad dirigida: Crear anuncios dirigidos cerca de atracciones
- turísticas (tanto anuncios físicos como anuncios digitales como anuncios móviles geo localizados) que
- enfatizan la conveniencia y la rentabilidad de una membresía anual para aquellos que visitan
- frecuentemente estas áreas. Esto podría atraer especialmente a los turistas locales o residentes
- que visitan con frecuencia estos lugares, pero que no se han comprometido a una membresía anual.
+- Aprovechar las preferencias geográficas para la publicidad dirigida: Crear anuncios dirigidos cerca de atracciones turísticas (tanto anuncios físicos como anuncios digitales como anuncios móviles geo localizados) que enfatizan la conveniencia y la rentabilidad de una membresía anual para aquellos que visitan frecuentemente estas áreas. Esto podría atraer especialmente a los turistas locales o residentes que visitan con frecuencia estos lugares, pero que no se han comprometido a una membresía anual.
 
+- Promover la conveniencia de ir al trabajo usando membresías anuales. Dirigirse a los usuarios casuales que utilizan el sistema durante las horas pico de transporte (o cerca de estaciones residenciales) promocionando los beneficios de una membresía anual para los desplazamientos diarios. Cyclistic podría asociarse con negocios locales para ofrecer membresías corporativas donde los empleadores puedan subsidiar las membresías anuales para sus empleados.
 
-- Promover la conveniencia de ir al trabajo usando membresías anuales. Dirigirse a los usuarios casuales
- que utilizan el sistema durante las horas pico de transporte (o cerca de estaciones residenciales) promocionando
- los beneficios de una membresía anual para los desplazamientos diarios. Destacar los ahorros de costos para
- aquellos que de otro modo pagarían por viajes individuales durante la hora pico. También, Cyclistic podría
- asociarse con negocios locales para ofrecer membresías corporativas donde los empleadores puedan
- subsidiar las membresías anuales para sus empleados. Esto sería especialmente atractivo para los
- ciclistas ocasionales que utilizan el servicio de vez en cuando para desplazarse, pero que aún no se
- han comprometido con una membresía anual.
+- Destacar los beneficios de las bicicletas clásicas en los planes de membresía: Dado que ambos tipos de usuarios prefieren las bicicletas clásicas, enfatizar el uso ilimitado de bicicletas clásicas en las promociones de membresía anual. Para los usuarios casuales, enfatiza cómo la membresía permite paseos de ocio ilimitados en su tipo de bicicleta preferido.
 
-- Animar a los usuarios casuales a convertirse en usuarios frecuentes: Ofrecer incentivos basados en viajes (por ejemplo, después de un
- cierto número de viajes casuales, obtienen un descuento en una membresía anual) para animar a
- los usuarios ocasionales a considerar una actualización. Esto podría estructurarse como un 
-programa de lealtad que recompensa el uso frecuente con descuentos en la membresía. Además, se pueden 
-crear paquetes de membresía específicamente para usuarios ocasionales que usan mayoritariamente
- usan Cyclistic los fines de semana o por ocio. Estos paquetes podrían incluir beneficios adicionales
- como descuentos en alquiler de bicicletas para amigos o créditos de viaje gratis para viajes de
- fin de semana, haciendo que la membresía anual sea más atractiva para los ciclistas regulares.
+- Mejorar las localizaciones de las estaciones para los usuarios casuales: Cyclistic podría contemplar incrementar la cantidad de estaciones próximas a zonas de turismo y entretenimiento, dado que estas son más frecuentadas por los usuarios de carácter casual.
 
-- Destacar los beneficios de las bicicletas clásicas en los planes de membresía: Dado que ambos tipos de usuarios prefieren
- las bicicletas clásicas, enfatizar el uso ilimitado de bicicletas clásicas en las promociones de membresía anual. Para
- los usuarios casuales, enfatiza cómo la membresía permite paseos de ocio ilimitados en su tipo de bicicleta preferido.
-
-- Optimizar las ubicaciones de las estaciones para usuarios casuales: Cyclistic podría considerar aumentar el número
- de estaciones cerca de lugares turísticos y de ocio, ya que estos son más utilizados por los usuarios casuales. Esto
- haría que el servicio fuera más atractivo y accesible para los usuarios casuales, aumentando la probabilidad de conversión.
-
-- Promocionar beneficios exclusivos para miembros en estaciones de alta demanda: Ofrecer beneficios exclusivos
- a los miembros anuales en estaciones cercanas a lugares turísticos o de ocio de alta
- afluencia (acceso de bicicletas por prioridad, descuentos). Esto animaría a los usuarios casuales
- a considerar una mejora para acceder a estos beneficios.
+- Fomentar ventajas únicas para los miembros anuales en estaciones de gran demanda: Proporcionar ventajas únicas a los usuarios anuales en estaciones cercanas a sitios turísticos o de ocio de gran afluencia, estas pueden ser un acceso prioritario o descuentos.
